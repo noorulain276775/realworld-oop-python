@@ -51,8 +51,7 @@ It simulates the core functionalities of a real banking system with clean class 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/noorulain276775/realworld-oop-python.git```
-
+   git clone https://github.com/noorulain276775/realworld-oop-python.git
 
 2. Navigate to the project folder:
 
@@ -60,10 +59,9 @@ It simulates the core functionalities of a real banking system with clean class 
    cd realworld-oop-python/bank_account
 
 3. Run the demo script to see example usage:
+
    ```bash
-   python demo.py```
-
-
+   python demo.py
 
 ## Contributions
 This project is primarily for personal portfolio and learning.
