@@ -1,15 +1,20 @@
 """
 Basic Functionalities
-- **Create Account:** Initialize account with holder name, unique account number, and initial balance.
-- **Deposit:** Add money to the account with validation for positive amounts.
-- **Withdraw:** Subtract money ensuring no negative balances allowed.
-- **Check Balance:** View current account balance.
-- **Transaction History:** Keep a log of deposits and withdrawals with timestamps.
+- Create Account: Initialize account with holder name, unique account number, and initial balance.
+- Deposit: Add money to the account with validation for positive amounts.
+- Withdraw: Subtract money ensuring no negative balances allowed.
+- Check Balance: View current account balance.
+- Transaction History: Keep a log of deposits and withdrawals with timestamps.
+
+Intermediate-Level Features
+- Transfer Funds: Move money between two accounts with transaction logging on both sides.
+- Account Summary / Statement: Generate a detailed statement showing balance, holder info, and recent transactions.
+- Unique Account Number: Auto-generated unique ID for each new account.
+- Overdraft Protection: Optional overdraft limits to control negative balances.
 """
 import time
 
 class Bank_Account:
-    current_time = time.time()
     def __init__(self, name, account_number, initial_balance=0):
         self.name = name
         self.account_number = account_number

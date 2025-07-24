@@ -30,7 +30,7 @@ It simulates the core functionalities of a real banking system with clean class 
 - **Input Validation:** Robust checks to prevent invalid input or transactions.
 - **Pretty Printing:** Custom `__str__` method to display account info neatly.
 
-### Stretch Goals (Future Enhancements)
+### Stretch Goals (Future Enhancements, will be implemented soon)
 - **Bank System Manager:** Manage multiple accounts, search by account number, and show total accounts.
 - **Export Statements:** Export account statements to text or CSV files.
 - **Multi-language Support:** Interface labels available in multiple languages.
