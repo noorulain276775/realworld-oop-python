@@ -56,7 +56,7 @@ It simulates the core functionalities of a real banking system with clean class 
 
 2. Navigate to the project folder:
 
-   cd realworld-oop-python/bank_account```
+   cd realworld-oop-python/bank_account
 
 3. Run the demo script to see example usage:
 
