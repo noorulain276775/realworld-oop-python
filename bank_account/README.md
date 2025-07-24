@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a **BankAccount system** built entirely in Python using Object-Oriented Programming (OOP) principles.  
-It simulates the core functionalities of a real banking system with clean class design, modularity, and practical features — perfect for demonstrating solid software design skills.
+It simulates the core functionalities of a real banking system with clean class design, modularity, and practical features, perfect for demonstrating solid software design skills.
 
 ---
 
