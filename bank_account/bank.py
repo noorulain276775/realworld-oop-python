@@ -11,6 +11,12 @@ Intermediate-Level Features
 - Account Summary / Statement: Generate a detailed statement showing balance, holder info, and recent transactions.
 - Unique Account Number: Auto-generated unique ID for each new account.
 - Overdraft Protection: Optional overdraft limits to control negative balances.
+
+Extra Polish
+- Close Account: Ability to close accounts and prevent further transactions.
+- Lock/Unlock Account: Temporarily block account operations.
+- Input Validation: Robust checks to prevent invalid input or transactions.
+- Pretty Printing: Custom `__str__` method to display account info neatly.
 """
 import time
 

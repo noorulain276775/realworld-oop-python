@@ -14,7 +14,7 @@ It simulates the core functionalities of a real banking system with clean class 
 - **Deposit:** Add money to the account with validation for positive amounts.
 - **Withdraw:** Subtract money ensuring no negative balances allowed.
 - **Check Balance:** View current account balance.
-- **Transaction History:** Keep a log of deposits and withdrawals with timestamps.
+- **Transaction History:** Keep a log of deposits and withdrawals with timestamps.Every transaction is date and time stamped for auditability.
 
 ### Intermediate-Level Features
 - **Transfer Funds:** Move money between two accounts with transaction logging on both sides.
@@ -25,8 +25,6 @@ It simulates the core functionalities of a real banking system with clean class 
 ### Extra Polish
 - **Close Account:** Ability to close accounts and prevent further transactions.
 - **Lock/Unlock Account:** Temporarily block account operations.
-- **Interest Calculation:** Apply monthly interest for savings accounts.
-- **Timestamped Transactions:** Every transaction is date and time stamped for auditability.
 - **Input Validation:** Robust checks to prevent invalid input or transactions.
 - **Pretty Printing:** Custom `__str__` method to display account info neatly.
 
