@@ -1,4 +1,4 @@
-# Real World OOP in Python 🐍
+# Real World OOP in Python
 
 This repository features real-world inspired Python mini projects developed using strong object-oriented programming (OOP) design. Each project simulates a practical system like banking, shopping carts, elevators, or digital clocks — showcasing modular, maintainable, and testable code.
 
