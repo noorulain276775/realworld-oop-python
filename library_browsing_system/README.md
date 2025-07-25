@@ -1,6 +1,6 @@
-# 📚 Library Browsing System — OOP Mini Project for Beginners
+# Library Browsing System — OOP Mini Project for Beginners
 
-### 🔰 What is this?
+### What is this?
 This is a beginner-friendly mini project made in **Python** to understand **Object-Oriented Programming (OOP)** concepts like:
 
 - **Encapsulation**
@@ -12,16 +12,16 @@ Built entirely using classes and objects to simulate a **library management syst
 
 ---
 
-## 👩‍💻 Who is this for?
+## Who is this for?
 - Beginners trying to learn how OOP works.
 - Anyone who wants to build a **hands-on project** to understand core concepts.
 - My LinkedIn circle! 😄 This is project #2 after our **Banking System**.
 
 ---
 
-## 🧩 Functionalities Covered
+## Functionalities Covered
 
-### 👤 User Roles
+### User Roles
 - **Admin (Inherited from User)**
   - Add a book to the system
   - Remove a book
@@ -34,7 +34,7 @@ Built entirely using classes and objects to simulate a **library management syst
 
 ---
 
-### 📘 Book Info (Encapsulated)
+### Book Info (Encapsulated)
 Each book has:
 - `title`
 - `author`
@@ -45,7 +45,7 @@ The book details are hidden (private attributes), and access is controlled via g
 
 ---
 
-## 🛠️ OOP Concepts Applied
+## OOP Concepts Applied
 
 | Concept         | Applied In                                             |
 |-----------------|--------------------------------------------------------|
@@ -56,7 +56,7 @@ The book details are hidden (private attributes), and access is controlled via g
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo  
    ```bash
