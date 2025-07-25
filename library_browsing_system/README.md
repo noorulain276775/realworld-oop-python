@@ -9,7 +9,7 @@ This is a beginner-friendly mini project made in **Python** to understand **Obje
 - **Object Reusability**
 
 Built entirely using classes and objects to simulate a **library management system** where users can borrow and return books.
-This is a **Command Line Interface (CLI)** based system — no GUI, just simple interactive terminal input/output for beginners.
+This is a **Command Line Interface (CLI)** based system (no GUI, just simple interactive terminal input/output for beginners who wants to learn)
 
 ---
 
