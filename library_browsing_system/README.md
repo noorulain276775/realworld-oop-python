@@ -15,7 +15,6 @@ Built entirely using classes and objects to simulate a **library management syst
 ## Who is this for?
 - Beginners trying to learn how OOP works.
 - Anyone who wants to build a **hands-on project** to understand core concepts.
-- My LinkedIn circle! 😄 This is project #2 after our **Banking System**.
 
 ---
 
