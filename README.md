@@ -5,6 +5,7 @@ This repository features real-world inspired Python mini projects developed usin
 ## Projects Included
 - Bank Account System
 - Library Borrowing System
+- Hospital Management System
 - Shopping Cart App
 - Elevator Controller
 - Student Grade Tracker
