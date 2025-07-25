@@ -20,7 +20,6 @@ It simulates the core functionalities of a real banking system with clean class 
 - **Transfer Funds:** Move money between two accounts with transaction logging on both sides.
 - **Account Summary / Statement:** Generate a detailed statement showing balance, holder info, and recent transactions.
 - **Unique Account Number:** Auto-generated unique ID for each new account.
-- **Overdraft Protection:** Optional overdraft limits to control negative balances.
 
 ### Extra Polish
 - **Close Account:** Ability to close accounts and prevent further transactions.
