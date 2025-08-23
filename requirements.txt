@@ -1,0 +1,22 @@
+# Real World OOP Python Projects - Dependencies
+# This file lists all required Python packages for the projects
+
+# Core Python packages (usually included with Python)
+# uuid - for generating unique identifiers
+# time - for timestamp functionality
+# datetime - for date/time operations
+
+# No external packages required for current projects
+# All functionality uses Python standard library
+
+# Future projects may require:
+# pytest>=7.0.0  # for testing
+# black>=22.0.0  # for code formatting
+# flake8>=5.0.0  # for linting
+# mypy>=1.0.0   # for type checking
+
+# To install dependencies (when needed):
+# pip install -r requirements.txt
+
+# To install development dependencies:
+# pip install -r requirements-dev.txt
