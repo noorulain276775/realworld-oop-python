@@ -39,6 +39,9 @@ class Patient:
         self.appointments: List[str] = []  # List of appointment IDs
         self.prescriptions: List[Dict] = []  # List of prescription dictionaries
         
+        # Add contact property for GUI compatibility
+        self.contact = phone
+        
     def add_appointment(self, appointment_id: str) -> str:
         """Add an appointment to patient's record"""
         if appointment_id not in self.appointments:

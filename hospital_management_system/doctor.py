@@ -38,6 +38,9 @@ class Doctor:
         self.schedule: Dict[str, List[Dict]] = {}  # Schedule by date
         self.consultation_fee = 0.0
         
+        # Add contact property for GUI compatibility
+        self.contact = phone
+        
     def add_patient(self, patient_id: str) -> str:
         """Add a patient to doctor's patient list"""
         if patient_id not in self.patients:

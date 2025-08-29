@@ -50,6 +50,9 @@ class Appointment:
         self.follow_up_date: Optional[str] = None
         self.cost: float = 0.0
         
+        # Add time property for GUI compatibility
+        self.time = time_slot
+        
     def update_status(self, new_status: AppointmentStatus, notes: str = "") -> str:
         """Update appointment status"""
         old_status = self.status
